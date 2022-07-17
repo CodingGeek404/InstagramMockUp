@@ -1,1 +1,1 @@
-# IntagramMockUp
+# InstagramMockUp
